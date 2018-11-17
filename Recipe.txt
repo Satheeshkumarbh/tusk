@@ -1,4 +1,6 @@
 I know java
-I know Hadoop
+I know Hadoop and Spark
 I live in pavagada
 I know Unix
+I like Maths
+I like Physics
