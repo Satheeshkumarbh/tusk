@@ -1,0 +1,4 @@
+I know java
+I know Hadoop
+I love Bangalore
+I live in Bangalore
